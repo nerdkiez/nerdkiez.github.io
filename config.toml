@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 2
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 1
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = "Nerkiez"
+    subtitle = "Creating CyBeer since 2016"
+    keywords = ""
+    copyright = "© Nerdkiez"
+    menuMore = "Show more beer"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "Nerdkiez"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "beer-made"
+        name = "Beers made"
+        url = "/post"
