@@ -5,4 +5,4 @@
  layout: default
 ---
 
-We are nerds who help nerds get drunk with acceptable beer.
+Lorem ipsum for now?
