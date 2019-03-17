@@ -33,3 +33,5 @@ gem 'jekyll-sitemap', '~> 1.2'
 gem 'jekyll-paginate', '~> 1.1'
 
 gem 'html-proofer'
+gem 'w3c_validators'
+gem 'rubocop'

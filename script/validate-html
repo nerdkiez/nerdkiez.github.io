@@ -1,12 +1,4 @@
-require 'html-proofer'
-
-task default: "test"
-
-task :test do
-  sh "bundle exec jekyll build"
-  options = { :assume_extension => true }
-  HTMLProofer.check_directory("./_site", options).run
-end
+#!/usr/bin/env ruby
 
 require 'w3c_validators'
 
@@ -22,7 +14,7 @@ end
 def validate(file)
   puts "Checking #{file}..."
 
-  path = File.expand_path "./_site/#{file}", __dir__
+  path = File.expand_path "../_site/#{file}", __dir__
   results = validator(file).validate_file(path)
 
   return puts 'Valid!' if results.errors.empty?
