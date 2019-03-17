@@ -18,10 +18,10 @@ email: info@nerdkiez.org
 description: >- # this means to ignore newlines until "baseurl:"
   We make acceptable tasting beer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nerdkiez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nerdkiez.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: nerdkiez
-
+github: [metadata]
 google_analytics: UA-135444708-2
 
 # Build settings
@@ -34,10 +34,11 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - [vendor]
+  - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

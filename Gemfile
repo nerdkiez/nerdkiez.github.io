@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jekyll-seo-tag', '~> 2.5'
 gem 'jekyll-sitemap', '~> 1.2'
 gem 'jekyll-paginate', '~> 1.1'
+
+gem 'html-proofer'
