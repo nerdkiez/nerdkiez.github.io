@@ -16,7 +16,6 @@ branches:
   only:
   - gh-pages     # test the gh-pages branch
   - master
-  - add-travis
 
 env:
   global:
