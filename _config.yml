@@ -15,14 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: Nerdkiez
 email: info@nerdkiez.org
-description: >- # this means to ignore newlines until "baseurl:"
-  We make acceptable tasting beer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nerdkiez.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+description: We make acceptable tasting beer
+baseurl: ""
+url: "https://nerdkiez.org"
 github_username: nerdkiez
-github: [metadata]
 google_analytics: UA-135444708-2
+
+paginate: 5
+paginate_path: "/page:num/"
 
 # Build settings
 markdown: kramdown
@@ -31,9 +31,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+  - jekyll-github-metadata
+
 exclude:
   - Gemfile
   - Gemfile.lock
