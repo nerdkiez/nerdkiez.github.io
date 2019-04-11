@@ -2,7 +2,7 @@
 layout: default
 title:  "Winter Ale"
 date:   2019-03-02 00:09:10 +0100
-categories: recipies
+categories: recipes
 ---
 
 # Nerdkiez Winter Ale
@@ -25,7 +25,7 @@ Dark ale to keep you warm in the winter time. Comes with a beautiful foam top.
 
 We used Berlin tap water which is considered medium hard to hard (14 °dH).
 
-### Fermentables
+### Fermentable's
 
 - Pale Ale malt 3,45 kg
 - Corn flakes 500g
@@ -51,9 +51,8 @@ Total boiling time is 90 minutes from hot break.
 |Mash in| 62°C    |        |
 |Protein rest| 58°C |20min |
 |Maltose rest| 62°C |30min  |
-|Sugar rest| 72°C   |20min |   
+|Sugar rest| 72°C   |20min |
 |Mash out         |78°C   ||
-
 
 ## Fermentation
 
