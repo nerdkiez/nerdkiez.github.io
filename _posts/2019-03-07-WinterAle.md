@@ -25,7 +25,8 @@ Dark ale to keep you warm in the winter time. Comes with a beautiful foam top.
 
 We used Berlin tap water which is considered medium hard to hard (14 °dH).
 
-### Fermentable's
+
+### Fermentables
 
 - Pale Ale malt 3,45 kg
 - Corn flakes 500g
