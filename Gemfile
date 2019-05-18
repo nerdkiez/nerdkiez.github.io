@@ -35,3 +35,4 @@ gem 'jekyll-sitemap', '~> 1.2'
 gem 'html-proofer'
 gem 'rubocop'
 gem 'w3c_validators'
+
