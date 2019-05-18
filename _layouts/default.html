@@ -31,7 +31,10 @@
         <h2 class="project-tagline">
             {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         <a href="{{ site.baseurl }}{% post_url 2019-03-07-WinterAle %}" class="btn">Winter Ale</a>
-        <a href="/about/" class="btn">About</a>
+        <a href="{{ site.baseurl }}{% post_url 2018-09-07-Helles %}" class="btn">Helles</a>
+        <a href="{{ site.baseurl }}{% post_url 2018-02-02-Wheat %}" class="btn">Wheat Beer</a>
+        <a href="{{ site.baseurl }}/about" class="btn">About</a>
+
         {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
         {% endif %}
