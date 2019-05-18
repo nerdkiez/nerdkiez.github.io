@@ -33,6 +33,6 @@ gem 'jekyll-seo-tag', '~> 2.5'
 gem 'jekyll-sitemap', '~> 1.2'
 
 gem 'html-proofer'
-gem 'rubocop'
+gem 'rubocop-performance'
 gem 'w3c_validators'
 
