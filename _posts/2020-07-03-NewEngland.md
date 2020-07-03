@@ -16,7 +16,7 @@ First time brewed: 03 July 2020
 ### Aim
 
 Have a very heavy New England IPA.
-As the Pale ale malt was out, we used Pils extra light malt for flavoring and added some carared for fancy color.
+As the Pale ale malt was out, we used Pils extra light malt for flavoring and added some Carared for fancy color.
 Hoping for a kind of fresh pulpy orange juice color.
 
 ### Result
@@ -45,11 +45,20 @@ Todays fermentable were eyeballed pretty hard. We bought the ingredients for a 3
 
 Total boiling time is 90 minutes from hot break.
 
-| Hop                    | Amount | Time to finish |
-| ---------------------- | ------ | -------------- |
-| Mosaic (12,5% Alpha. ) | 20 g   | 0 min          |
-| Citra (13,1% Alpha)    | 20 g   | 0 min          |
-| Hallertau ( % Alpha)   | 23 g   | 0 min          |
+| Hop                  | Amount | Time to finish |
+| -------------------- | ------ | -------------- |
+| Mosaic (12,5% Alpha) | 20 g   | 0 min          |
+| Citra (13,1% Alpha)  | 20 g   | 0 min          |
+| Hallertau ( % Alpha) | 22 g   | 0 min          |
+
+Dry hopping:
+| Hop |Amount | Time after boil|
+| --------------------- | ----- | -------------- |
+| Mosaic (12,5% Alpha) | 10 | ~1 day |
+| Citra (13,1% Alpha) | 13,5 | ~1 day |
+| --------------------- | ----- | -------------- |
+| Mosaic (12,5% Alpha) | 10 | ~5 day |
+| Citra (13,1% Alpha) | 13,5 | ~5 day |
 
 ## Brewing
 
@@ -69,5 +78,5 @@ Fermentation takes about 7 to 8 days at 18°C
 
 ## Brewer's tip
 
-Science is more art than science.
+Science is more art than science.  
 [~Rick](https://www.youtube.com/watch?v=W5JqB6e5QwU)
