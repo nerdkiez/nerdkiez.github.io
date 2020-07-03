@@ -9,7 +9,8 @@ categories: recipes
 
 First time brewed: 03 July 2020
 
-**TODO: Add Image HERE**
+![Brewing it](/assets/beer_in_progress.jpg)
+
 
 ## Description
 
