@@ -11,10 +11,17 @@ First time brewed: 03 July 2020
 
 ![Brewing it](/assets/beer_in_progress.jpg)
 
-
 ## Description
 
-**TODO: Description of flavor and color**
+### Aim
+
+Have a very heavy New England IPA.
+As the Pale ale malt was out, we used Pils extra light malt for flavoring and added some carared for fancy color.
+Hoping for a kind of fresh pulpy orange juice color.
+
+### Result
+
+This will be updated when we drink the batch.
 
 ## Ingredients
 
@@ -36,7 +43,7 @@ Todays fermentable were eyeballed pretty hard. We bought the ingredients for a 3
 
 ### Hops / flavoring
 
-Total boiling time is xx minutes from hot break.
+Total boiling time is 90 minutes from hot break.
 
 | Hop                    | Amount | Time to finish |
 | ---------------------- | ------ | -------------- |
@@ -54,10 +61,13 @@ Total boiling time is xx minutes from hot break.
 
 ## Fermentation
 
-US S5 and S33
+- Salafe S5
+- Salafe S33
 
-Fermentation takes about **x** to **x** days at **x**°C
+_These are estimated values. Values will be updated once fermentation is complete._  
+Fermentation takes about 7 to 8 days at 18°C
 
 ## Brewer's tip
 
 Science is more art than science.
+[~Rick](https://www.youtube.com/watch?v=W5JqB6e5QwU)
