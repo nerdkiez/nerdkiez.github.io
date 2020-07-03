@@ -51,7 +51,12 @@ Total boiling time is 90 minutes from hot break.
 | Citra (13,1% Alpha)  | 20 g   | 0 min          |
 | Hallertau ( % Alpha) | 22 g   | 0 min          |
 
+
+
 Dry hopping:
+
+
+
 | Hop |Amount | Time after boil|
 | --------------------- | ----- | -------------- |
 | Mosaic (12,5% Alpha) | 10 | ~1 day |
