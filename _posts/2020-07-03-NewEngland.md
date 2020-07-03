@@ -56,9 +56,8 @@ Dry hopping:
 | --------------------- | ----- | -------------- |
 | Mosaic (12,5% Alpha) | 10 | ~1 day |
 | Citra (13,1% Alpha) | 13,5 | ~1 day |
-| --------------------- | ----- | -------------- |
 | Mosaic (12,5% Alpha) | 10 | ~5 day |
-| Citra (13,1% Alpha) | 13,5 | ~5 day |
+| Citra (13,1% Alpha)  | 13,5 | ~5 day |
 
 ## Brewing
 
