@@ -5,21 +5,21 @@ date: 2020-07-02 00:09:10 +0100
 categories: recipes
 ---
 
-# Nerdkiez Beer!
+# Nerdkiez WIP Beer!
 
 First time brewed: 03 July 2020
 
-**Add Image HERE**
+**TODO: Add Image HERE**
 
 ## Description
 
-**Description of flavor and color**
+**TODO: Description of flavor and color**
 
 ## Ingredients
 
 ~20L Mash -> roughly calculated by measuring width and hight of pot
 
-**xx**L Sparge
+10L Sparge
 
 We used Berlin tap water which is considered medium hard to hard (14 °dH).
 
