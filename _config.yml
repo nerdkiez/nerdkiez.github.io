@@ -1,35 +1,35 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "Nerdkiez"
+title: "The Nerdkiez Homebrew collective"
+description: "We make acceptable tasting beer."
+logo: 'assets/images/logo.png'   #TBD
+favicon: 'assets/images/logo.png'   #TBD
+baseurl: /blog
+google_analytics: 'G-K7EM75L0G7'
+disqus: 'nerdkiez'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  tofu:
+    name: Christoph
+    display_name: Tofu
+    avatar: assets/images/avatar_tofu.png
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: spam@gerneth.info
+    web: https://gerneth.info
+    twitter: https://twitter.com/binarypizza
+    description: "Tech enthusiast and backend engineer with a passion for electronics and automation."
   john:
-    name: John
-    display_name: John    
+    name: Chris
+    display_name: Chris    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Beer lover that also knows how to use a computer."
 
 # Plugins
 plugins:

@@ -1,23 +1,21 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Hi, we are Nerdkiez
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>We are a group of hobby brewers that from Berlin. Motivated by curiosity, we started brewing our own beer a few years ago. This site is a timeline of success and failures along our journey. We want to motivate you to explore the near endless possibilities of brewing and enjoying your own beer.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/chris_tofu.jpg" alt="part of the crew" /></p>
+<h4></h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>We are not professionals - failing is sometimes part of the game.</p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>We believe in "learning by doing" and we improve on every retry.</p>
 
 </div>
 
