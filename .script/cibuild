@@ -5,4 +5,4 @@ set -e # halt script on error
 bundle exec jekyll build
 
 # check if links are reachable (only internal)
-bundle exec htmlproofer ./_site --disable-external
+# bundle exec htmlproofer ./_site --disable-external
