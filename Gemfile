@@ -8,6 +8,7 @@ source "https://rubygems.org"
 #
 
 # html-proofer is being used by CI 
+gem "github-pages"
 gem "jekyll"
 gem "html-proofer"
 
