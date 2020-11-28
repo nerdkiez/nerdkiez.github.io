@@ -25,15 +25,15 @@ authors:
   chris:
     name: Chris
     display_name: Chris
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar_chris.png'
     #email: wowthemesnet@gmail.com
-    #web: https://www.wowthemes.net
+    web: https://weissmann.io
     #twitter: https://twitter.com/wowthemesnet
     description: "Beer lover that also knows how to use a computer."
   simon:
     name: Simon
     display_name: Ümon
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar_simon.png'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net
     #twitter: https://twitter.com/wowthemesnet
