@@ -62,6 +62,11 @@ Salafe S-04 Ale yeast from starter.
 
 Fermentation takes about 7 to 10 days at 19°C
 
+
+And here's the bottled result :-) 
+
+![Winterale Bottle]({{ site.baseurl }}/assets/images/winter_ale_bottle.jpg)
+
 ## Brewer's tip
 
 Drink with mates and nerds!

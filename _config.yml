@@ -4,7 +4,7 @@ title: "The Nerdkiez Homebrew collective"
 description: "We make acceptable tasting beer."
 logo: 'assets/images/logo.png'   #TBD
 favicon: 'assets/images/logo.png'   #TBD
-baseurl: /blog
+baseurl: ''
 google_analytics: 'G-K7EM75L0G7'
 disqus: 'nerdkiez'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -22,9 +22,17 @@ authors:
     web: https://gerneth.info
     twitter: https://twitter.com/binarypizza
     description: "Tech enthusiast and backend engineer with a passion for electronics and automation."
-  john:
+  chris:
     name: Chris
-    display_name: Chris    
+    display_name: Chris
+    avatar: 'assets/images/avatar.png'
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Beer lover that also knows how to use a computer."
+  simon:
+    name: Simon
+    display_name: Ümon
     avatar: 'assets/images/avatar.png'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net
@@ -69,4 +77,4 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, vendor]
