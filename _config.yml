@@ -1,43 +1,80 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site
+name: "Nerdkiez"
+title: "The Nerdkiez Homebrew collective"
+description: "We make acceptable tasting beer."
+logo: 'assets/images/logo.png'   #TBD
+favicon: 'assets/images/logo.png'   #TBD
+baseurl: ''
+google_analytics: 'G-K7EM75L0G7'
+disqus: 'nerdkiez'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Nerdkiez
-email: info@nerdkiez.org
-description: We make acceptable tasting beer
-baseurl: ""
-url: "https://nerdkiez.org"
-github_username: nerdkiez
-google_analytics: UA-135444708-2
+# Authors
+authors:
+  tofu:
+    name: Christoph
+    display_name: Tofu
+    avatar: assets/images/avatar_tofu.png
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: spam@gerneth.info
+    web: https://gerneth.info
+    twitter: https://twitter.com/binarypizza
+    description: "Tech enthusiast and backend engineer with a passion for electronics and automation."
+  chris:
+    name: Chris
+    display_name: Chris
+    avatar: 'assets/images/avatar_chris.png'
+    #email: wowthemesnet@gmail.com
+    web: https://weissmann.io
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Beer lover that also knows how to use a computer."
+  simon:
+    name: Simon
+    display_name: Ümon
+    avatar: 'assets/images/avatar_simon.png'
+    #email: wowthemesnet@gmail.com
+    #web: https://www.wowthemes.net
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Beer lover that also knows how to use a computer."
 
-paginate: 5
-paginate_path: "/page:num/"
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
+# Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, vendor]

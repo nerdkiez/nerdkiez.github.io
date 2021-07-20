@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+# check if jekyll can run build
+bundle exec jekyll build
+
+# check if links are reachable (only internal)
+# bundle exec htmlproofer ./_site --disable-external

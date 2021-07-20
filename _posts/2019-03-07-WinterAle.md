@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
 title:  "Winter Ale"
 date:   2019-03-02 00:09:10 +0100
-categories: recipes
+author: tofu
+categories: [ recipes ]
+image: assets/images/winterale.jpg
 ---
 
 # Nerdkiez Winter Ale
@@ -11,7 +13,6 @@ First time brewed: 8 December 2018
 
 Brewed again 2 March 2019
 
-![Dark Winter Ale](/assets/winterale.jpg)
 
 ## Description
 
@@ -60,6 +61,11 @@ Total boiling time is 90 minutes from hot break.
 Salafe S-04 Ale yeast from starter.
 
 Fermentation takes about 7 to 10 days at 19°C
+
+
+And here's the bottled result :-) 
+
+![Winterale Bottle]({{ site.baseurl }}/assets/images/winter_ale_bottle.jpg)
 
 ## Brewer's tip
 
