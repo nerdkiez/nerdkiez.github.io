@@ -1,23 +1,39 @@
-# Mediumish - Jekyll Theme
-
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![mediumish](assets/images/mediumish-jekyll-template.png)
+Hosting our website using github pages.
 
 
-### Copyright
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+The site is running on [Jekyll](https://jekyllrb.com/docs/).
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+To get this up and running locally be sure to have Ruby > 2.5.0 running
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+```zsh
+gem install --user-install bundler jekyll
+```
 
-### Contribute
+Then bundle it
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
+```bash
+bundle
+```
 
-Thank you!
+Serve it locally to port 4200 with 
+
+```bash
+bundle exec jekyll serve  
+```
+
+
+
+
+
+If you want to update the dependancies run
+
+```bash
+bundle update
+```
+
+And then install
+
+```bash
+bundle install
+```
