@@ -8,11 +8,6 @@ image: assets/images/yeastgerman-01.jpg
 
 ---
 
-# Nerdkiez Wheat Beer v2: The Yeast-German Wheat Beer
-
-
-## Description
-
 This is the seconnd wheat beer we are brewing. This time, we try to make it a bit lighter and simpler.
 
 
@@ -24,7 +19,7 @@ This is the seconnd wheat beer we are brewing. This time, we try to make it a bi
 
 Again, of course we had to use the classic, hard Berlin tap water.
 
-![transporting sparge water](assets/images/yeastgerman-02.jpg)
+![transporting sparge water]({{ site.baseurl }}/assets/images/yeastgerman-02.jpg)
 
 Tip: A bike cargo trailer makes it easy to transport hot sparge water to the park! :)
 
@@ -61,10 +56,11 @@ Total boiling time is 90 minutes from hot break.
 |Sugar rest|72°C    |20 min|
 |Mash out  |78°C    |20 min|
 
+
 We ended up with an Original Gravity (OG) of 1.050 after the boil.
 
 I also wanted to give a little insight about how we brew: We use the _"brew it a bag"_-Method for a while now. We also found that for us, lautering works best if we take the whole grain bag out of the brew kettle and wash it in a sparge water bucket. It's (relatively) clean, it's simple, it's effective.
-![brewing turned out to be a workshop](assets/images/yeastgerman-03.jpg)
+![brewing turned out to be a workshop]({{ site.baseurl }}/assets/images/yeastgerman-03.jpg)
 
 
 ## Fermentation
