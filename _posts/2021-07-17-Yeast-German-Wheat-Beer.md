@@ -77,10 +77,9 @@ After 17 days of fermentation in our blue bucket fermenter, we ended up with a F
 ## Bottle Day!
 
 We have added 6g of priming sugar for each 0.5 liter botte to get a nice, bubbly beer with lots of CO2. 
+Don't the bottles look cool with a black bottlecap? I think so!
 
 
 ![bottle process]({{ site.baseurl }}/assets/images/yeastgerman-04.jpg)
 
-## Brewer's tip
-
-cool down for about 12 hours overnight in the basement with lid on.
+Now, we wait for the remainig yeast to eat all the priming sugar. This step might take a few weeks.
