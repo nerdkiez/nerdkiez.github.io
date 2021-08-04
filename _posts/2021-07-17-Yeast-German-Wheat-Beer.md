@@ -72,12 +72,14 @@ Temperature at around ~ 18C
 After 17 days of fermentation in our blue bucket fermenter, we ended up with a Final Gravity (FG) of 1.030. This measurements would give a final alcohol content of just 2.63% ABV.
 
 
+![young beer after fermentation]({{ site.baseurl }}/assets/images/yeastgerman-05.jpg)
 
 ## Bottle Day!
 
 We have added 6g of priming sugar for each 0.5 liter botte to get a nice, bubbly beer with lots of CO2. 
 
 
+![bottle process]({{ site.baseurl }}/assets/images/yeastgerman-04.jpg)
 
 ## Brewer's tip
 
